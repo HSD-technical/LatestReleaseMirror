@@ -166,6 +166,7 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk` | 11.0 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk) |
+| `GooseRelayVPN-HN-1.0.3-universal-release.apk` | 37.6 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-universal-release.apk) |
 
 ---
 

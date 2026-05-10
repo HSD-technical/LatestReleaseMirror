@@ -178,6 +178,7 @@ sha256sum FILE_NAME
 
 | File | Size | Download |
 |------|------|----------|
+| `GooseRelayVPN-client-v1.6.0-android-arm64.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-android-arm64.tar.gz) |
 | `GooseRelayVPN-client-v1.6.0-windows-amd64.zip` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-amd64.zip) |
 | `GooseRelayVPN-server-v1.6.0-windows-amd64.zip` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-windows-amd64.zip) |
 

@@ -5,3 +5,4 @@
 therealaleph/MasterHttpRelayVPN-RUST|arm64-v8a|windows-amd64
 kianmhz/GooseRelayVPN|windows-amd64|android-arm64.tar.gz
 Hidden-Node/GooseRelayVPN-AndroidClient|arm64-v8a|universal-release
+GFW-knocker/MahsaNG|arm64-v8a

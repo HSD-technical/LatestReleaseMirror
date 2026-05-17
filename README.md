@@ -157,6 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="gfw-knocker--mahsang"></div>
+
+### GFW-knocker--MahsaNG
+
+🔗 [source](https://github.com/GFW-knocker/MahsaNG) – [<code><small>v16-(1405-2-25)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v16-(1405-2-25))
+
+| File | Size | Download |
+|------|------|----------|
+| `MahsaNG_16_arm64-v8a.apk` | 59.2 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_arm64-v8a.apk) |
+
+---
+
 <div id="hidden-node--gooserelayvpn-androidclient"></div>
 
 ### Hidden-Node--GooseRelayVPN-AndroidClient
@@ -188,10 +200,10 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.19</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.19)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.28</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.28)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.19.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.19.apk) |
-| `mhrv-rs-windows-amd64.zip` | 7.6 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhrv-rs-android-arm64-v8a-v1.9.28.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.28.apk) |
+| `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->

@@ -173,12 +173,12 @@ sha256sum FILE_NAME
 
 ### Hidden-Node--GooseRelayVPN-AndroidClient
 
-🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.3</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.3)
+🔗 [source](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient) – [<code><small>v1.0.5</small></code>](https://github.com/Hidden-Node/GooseRelayVPN-AndroidClient/releases/tag/v1.0.5)
 
 | File | Size | Download |
 |------|------|----------|
-| `GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk` | 11.0 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-arm64-v8a-release.apk) |
-| `GooseRelayVPN-HN-1.0.3-universal-release.apk` | 37.6 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.3-universal-release.apk) |
+| `GooseRelayVPN-HN-1.0.5-arm64-v8a-release.apk` | 11.0 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.5-arm64-v8a-release.apk) |
+| `GooseRelayVPN-HN-1.0.5-universal-release.apk` | 37.4 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/Hidden-Node/GooseRelayVPN-AndroidClient/GooseRelayVPN-HN-1.0.5-universal-release.apk) |
 
 ---
 
@@ -186,13 +186,13 @@ sha256sum FILE_NAME
 
 ### kianmhz--GooseRelayVPN
 
-🔗 [source](https://github.com/kianmhz/GooseRelayVPN) – [<code><small>v1.6.0</small></code>](https://github.com/kianmhz/GooseRelayVPN/releases/tag/v1.6.0)
+🔗 [source](https://github.com/kianmhz/GooseRelayVPN) – [<code><small>v1.7.1</small></code>](https://github.com/kianmhz/GooseRelayVPN/releases/tag/v1.7.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `GooseRelayVPN-client-v1.6.0-android-arm64.tar.gz` | 2.4 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-android-arm64.tar.gz) |
-| `GooseRelayVPN-client-v1.6.0-windows-amd64.zip` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.6.0-windows-amd64.zip) |
-| `GooseRelayVPN-server-v1.6.0-windows-amd64.zip` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.6.0-windows-amd64.zip) |
+| `GooseRelayVPN-client-v1.7.1-android-arm64.tar.gz` | 2.5 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.7.1-android-arm64.tar.gz) |
+| `GooseRelayVPN-client-v1.7.1-windows-amd64.zip` | 2.6 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-client-v1.7.1-windows-amd64.zip) |
+| `GooseRelayVPN-server-v1.7.1-windows-amd64.zip` | 2.3 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/kianmhz/GooseRelayVPN/GooseRelayVPN-server-v1.7.1-windows-amd64.zip) |
 
 ---
 
@@ -200,10 +200,10 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.28</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.28)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.34</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.34)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.28.apk` | 18.6 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.28.apk) |
-| `mhrv-rs-windows-amd64.zip` | 7.5 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
+| `mhrv-rs-android-arm64-v8a-v1.9.34.apk` | 19.5 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.34.apk) |
+| `mhrv-rs-windows-amd64.zip` | 8.5 MB | [⬇️ Download](https://raw.githubusercontent.com/HSD-technical/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-windows-amd64.zip) |
 <!-- RELEASES_END -->
